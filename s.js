@@ -1,4 +1,4 @@
-
+alert(90)
 var os = navigator.userAgent.toLocaleLowerCase();
 if(os.includes("")||os.includes("ms-do")||os.includes("haiku")||os.includes("menuet")||os.includes("mac")||os.includes("dos")||os.includes("chrome")||os.includes("chrome os")||os.includes("linux")){ 
     document.getElementById("dro").style.display = "flex"; 
